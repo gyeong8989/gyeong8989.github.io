@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "G.D note"
 title_separator          : "-"
 subtitle                 : # 안녕하세요. 반갑습니다~
-name                     : "GyeingDeok"
+name                     : "G.D"
 description              : "An amazing website."
 url                      : "https://gyeong8989.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "첫 걸음."
+  location         : "Souhtkorea"
+  email            :nice89gd@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
