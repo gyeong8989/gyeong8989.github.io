@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "G.D note"
 title_separator          : "-"
 subtitle                 : # 안녕하세요. 반갑습니다~
-name                     : "G.D"
+name                     : "ppp"
 description              : "An amazing website."
 url                      : "https://gyeong8989.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
